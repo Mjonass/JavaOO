@@ -1,2 +1,0 @@
-Caminho do arquivo das perguntas: vaadin-ai-chat-master\src\main\resources\bots\alice\aiml
-Nome do arquivo: PerguntasFrequentes
